@@ -1,3 +1,5 @@
+**Link Chat Gemini:** https://gemini.google.com/share/58b17c69a7a0
+
 # Perbandingan Sistem rPPG: Non-Real-Time vs Real-Time Enhanced
 
 ## 1. Pemrosesan
@@ -315,5 +317,6 @@ Situasi 2: User bergerak-gerak
 - **Grafik** = Untuk validasi visual bahwa sistem bekerja dengan baik
 - **POS** = Metode pintar yang pakai 3 warna sekaligus, lebih akurat dari 1 warna
 - **SNR** = Indikator kualitas sinyal, seperti bar sinyal HP
+
 
 Semua komponen ini bekerja sama untuk mengukur detak jantung Anda **tanpa sensor**, hanya dengan kamera! 🎥❤️
